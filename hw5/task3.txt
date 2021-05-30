@@ -1,0 +1,6 @@
+Igor 10000
+Ilya 52000
+Vika 14000
+Simon 36000
+Klara 19000
+Sasha 200000
